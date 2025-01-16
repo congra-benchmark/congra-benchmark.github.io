@@ -1,0 +1,422 @@
+{
+  "MergeGen-Baseline": {
+    "link": "https://example.com/MergeGen-Baseline",
+    "prompted": false,
+    "size": 0.6,
+    "metrics": {
+      "context_line_0": {
+        "acc": 40.30,
+        "pre": 40.30,
+        "ed": 30.94,
+        "ws": 59.84,
+        "ss": 51.58
+      },
+      "context_line_20": {
+        "acc": 32.24,
+        "pre": 32.24,
+        "ed": 43.20,
+        "ws": 72.05,
+        "ss": 67.61
+      },
+      "context_line_50": {
+        "acc": 28.30,
+        "pre": 28.30,
+        "ed": 40.26,
+        "ws": 68.50,
+        "ss": 64.66
+      },
+      "context_line_100": {
+        "acc": 29.31,
+        "pre": 29.31,
+        "ed": 39.40,
+        "ws": 65.60,
+        "ss": 62.02
+      }
+    }
+  },
+  "GLM-3-Turbo": {
+    "link": "https://example.com/GLM-3-Turbo",
+    "prompted": false,
+    "size": null,
+    "metrics": {
+      "context_line_0": {
+        "acc": 44.52,
+        "pre": 44.88,
+        "ed": 45.48,
+        "ws": 59.19,
+        "ss": 73.10
+      },
+      "context_line_20": {
+        "acc": 50.78,
+        "pre": 51.29,
+        "ed": 46.93,
+        "ws": 61.96,
+        "ss": 74.49
+      },
+      "context_line_50": {
+        "acc": 59.11,
+        "pre": 59.83,
+        "ed": 48.06,
+        "ws": 63.94,
+        "ss": 75.76
+      },
+      "context_line_100": {
+        "acc": 64.72,
+        "pre": 65.57,
+        "ed": 51.00,
+        "ws": 67.27,
+        "ss": 75.97
+      }
+    }
+  },
+  "Llama2 7B": {
+    "link": "https://example.com/Llama2-7B",
+    "prompted": false,
+    "size": 7,
+    "metrics": {
+      "context_line_0": {
+        "acc": 38.73,
+        "pre": 39.69,
+        "ed": 27.82,
+        "ws": 37.97,
+        "ss": 58.68
+      },
+      "context_line_20": {
+        "acc": 57.51,
+        "pre": 58.92,
+        "ed": 33.82,
+        "ws": 54.17,
+        "ss": 73.85
+      },
+      "context_line_50": {
+        "acc": 56.27,
+        "pre": 57.66,
+        "ed": 32.91,
+        "ws": 53.43,
+        "ss": 73.90
+      },
+      "context_line_100": {
+        "acc": 54.19,
+        "pre": 55.52,
+        "ed": 31.19,
+        "ws": 51.96,
+        "ss": 72.41
+      }
+    }
+  },
+  "CodeLlama 7B": {
+    "link": "https://example.com/CodeLlama-7B",
+    "prompted": false,
+    "size": 7,
+    "metrics": {
+      "context_line_0": {
+        "acc": 63.12,
+        "pre": 63.50,
+        "ed": 42.37,
+        "ws": 59.48,
+        "ss": 72.62
+      },
+      "context_line_20": {
+        "acc": 59.97,
+        "pre": 60.33,
+        "ed": 35.02,
+        "ws": 55.30,
+        "ss": 73.21
+      },
+      "context_line_50": {
+        "acc": 58.71,
+        "pre": 59.06,
+        "ed": 33.16,
+        "ws": 54.47,
+        "ss": 71.64
+      },
+      "context_line_100": {
+        "acc": 57.40,
+        "pre": 57.74,
+        "ed": 31.01,
+        "ws": 53.64,
+        "ss": 69.03
+      }
+    }
+  },
+  "CodeLlama 34B": {
+    "link": "https://example.com/CodeLlama-34B",
+    "prompted": false,
+    "size": 34,
+    "metrics": {
+      "context_line_0": {
+        "acc": 68.51,
+        "pre": 69.20,
+        "ed": 37.90,
+        "ws": 65.45,
+        "ss": 66.52
+      },
+      "context_line_20": {
+        "acc": 63.75,
+        "pre": 64.40,
+        "ed": 31.22,
+        "ws": 60.66,
+        "ss": 62.24
+      },
+      "context_line_50": {
+        "acc": 62.36,
+        "pre": 62.99,
+        "ed": 28.64,
+        "ws": 59.31,
+        "ss": 61.64
+      },
+      "context_line_100": {
+        "acc": 72.41,
+        "pre": 72.85,
+        "ed": 23.30,
+        "ws": 68.75,
+        "ss": 56.92
+      }
+    }
+  },
+  "Llama3": {
+    "link": "https://example.com/Llama3",
+    "prompted": false,
+    "size": 8,
+    "metrics": {
+      "context_line_0": {
+        "acc": 75.79,
+        "pre": 76.43,
+        "ed": 46.26,
+        "ws": 71.25,
+        "ss": 75.60
+      },
+      "context_line_20": {
+        "acc": 72.58,
+        "pre": 73.20,
+        "ed": 43.95,
+        "ws": 67.11,
+        "ss": 76.01
+      },
+      "context_line_50": {
+        "acc": 72.27,
+        "pre": 72.88,
+        "ed": 43.04,
+        "ws": 66.85,
+        "ss": 74.97
+      },
+      "context_line_100": {
+        "acc": 69.07,
+        "pre": 69.66,
+        "ed": 40.86,
+        "ws": 63.12,
+        "ss": 74.72
+      }
+    }
+  },
+  "Llama3.1": {
+    "link": "https://example.com/Llama3-1",
+    "prompted": false,
+    "size": 8,
+    "metrics": {
+      "context_line_0": {
+        "acc": 73.53,
+        "pre": 74.15,
+        "ed": 49.89,
+        "ws": 69.31,
+        "ss": 79.78
+      },
+      "context_line_20": {
+        "acc": 71.87,
+        "pre": 72.48,
+        "ed": 45.27,
+        "ws": 65.14,
+        "ss": 79.63
+      },
+      "context_line_50": {
+        "acc": 71.81,
+        "pre": 72.41,
+        "ed": 45.73,
+        "ws": 65.34,
+        "ss": 79.67
+      },
+      "context_line_100": {
+        "acc": 72.11,
+        "pre": 72.72,
+        "ed": 46.44,
+        "ws": 65.73,
+        "ss": 79.73
+      }
+    }
+  },
+  "DeepSeek V1": {
+    "link": "https://example.com/DeepSeek-V1",
+    "prompted": false,
+    "size": 67,
+    "metrics": {
+      "context_line_0": {
+        "acc": 31.48,
+        "pre": 32.25,
+        "ed": 25.60,
+        "ws": 32.15,
+        "ss": 53.95
+      },
+      "context_line_20": {
+        "acc": 42.43,
+        "pre": 43.47,
+        "ed": 28.15,
+        "ws": 41.23,
+        "ss": 64.19
+      },
+      "context_line_50": {
+        "acc": 45.64,
+        "pre": 46.76,
+        "ed": 29.17,
+        "ws": 44.42,
+        "ss": 66.43
+      },
+      "context_line_100": {
+        "acc": 49.87,
+        "pre": 51.10,
+        "ed": 29.59,
+        "ws": 49.03,
+        "ss": 67.14
+      }
+    }
+  },
+  "DeepSeek-Coder V1": {
+    "link": "https://example.com/DeepSeek-Coder-V1",
+    "prompted": false,
+    "size": 67,
+    "metrics": {
+      "context_line_0": {
+        "acc": 71.13,
+        "pre": 72.88,
+        "ed": 49.09,
+        "ws": 69.00,
+        "ss": 77.76
+      },
+      "context_line_20": {
+        "acc": 64.05,
+        "pre": 65.63,
+        "ed": 38.59,
+        "ws": 60.17,
+        "ss": 76.51
+      },
+      "context_line_50": {
+        "acc": 65.19,
+        "pre": 66.79,
+        "ed": 40.44,
+        "ws": 60.90,
+        "ss": 76.52
+      },
+      "context_line_100": {
+        "acc": 65.19,
+        "pre": 66.79,
+        "ed": 40.43,
+        "ws": 60.94,
+        "ss": 75.78
+      }
+    }
+  },
+  "DeepSeek V2": {
+    "link": "https://example.com/DeepSeek-V2",
+    "prompted": false,
+    "size": 236,
+    "metrics": {
+      "context_line_0": {
+        "acc": 44.82,
+        "pre": 45.20,
+        "ed": 35.37,
+        "ws": 43.26,
+        "ss": 56.03
+      },
+      "context_line_20": {
+        "acc": 48.46,
+        "pre": 48.99,
+        "ed": 29.25,
+        "ws": 50.56,
+        "ss": 68.74
+      },
+      "context_line_50": {
+        "acc": 50.71,
+        "pre": 51.05,
+        "ed": 31.76,
+        "ws": 54.01,
+        "ss": 69.58
+      },
+      "context_line_100": {
+        "acc": 52.45,
+        "pre": 52.80,
+        "ed": 33.73,
+        "ws": 55.40,
+        "ss": 71.84
+      }
+    }
+  },
+  "DeepSeek-Coder V2": {
+    "link": "https://example.com/DeepSeek-Coder-V2",
+    "prompted": false,
+    "size": 236,
+    "metrics": {
+      "context_line_0": {
+        "acc": 73.44,
+        "pre": 75.24,
+        "ed": 53.11,
+        "ws": 71.48,
+        "ss": 78.90
+      },
+      "context_line_20": {
+        "acc": 73.39,
+        "pre": 75.19,
+        "ed": 52.24,
+        "ws": 71.13,
+        "ss": 79.04
+      },
+      "context_line_50": {
+        "acc": 73.74,
+        "pre": 75.55,
+        "ed": 52.41,
+        "ws": 71.16,
+        "ss": 79.16
+      },
+      "context_line_100": {
+        "acc": 74.02,
+        "pre": 75.84,
+        "ed": 52.52,
+        "ws": 71.27,
+        "ss": 79.36
+      }
+    }
+  },
+  "DeepSeek V3": {
+    "link": "https://example.com/DeepSeek-V3",
+    "prompted": false,
+    "size": 685,
+    "metrics": {
+      "context_line_0": {
+        "acc": 73.80,
+        "pre": 75.62,
+        "ed": 52.80,
+        "ws": 71.03,
+        "ss": 79.17
+      },
+      "context_line_20": {
+        "acc": 73.89,
+        "pre": 75.71,
+        "ed": 52.70,
+        "ws": 71.01,
+        "ss": 79.24
+      },
+      "context_line_50": {
+        "acc": 73.66,
+        "pre": 75.47,
+        "ed": 52.65,
+        "ws": 70.86,
+        "ss": 79.19
+      },
+      "context_line_100": {
+        "acc": 73.80,
+        "pre": 75.62,
+        "ed": 52.69,
+        "ws": 70.91,
+        "ss": 79.21
+      }
+    }
+  }
+}
