@@ -247,7 +247,7 @@
   "DeepSeek V1": {
     "link": "https://example.com/DeepSeek-V1",
     "prompted": false,
-    "size": 67,
+    "size": 7,
     "metrics": {
       "context_line_0": {
         "acc": 25.54,
@@ -282,7 +282,7 @@
   "DeepSeek-Coder V1": {
     "link": "https://example.com/DeepSeek-Coder-V1",
     "prompted": false,
-    "size": 67,
+    "size": 6.7,
     "metrics": {
       "context_line_0": {
         "acc": 71.34,
